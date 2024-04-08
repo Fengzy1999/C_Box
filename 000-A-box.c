@@ -10,6 +10,7 @@ int main(void)
     /*
         code
     */
-    system("pause");
+    //当遇到窗口无法停留时，使用下面的暂停语句
+    system("pause"); //暂停语句
     return 0;
 }
